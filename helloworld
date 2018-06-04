@@ -1,0 +1,10 @@
+class Main {
+  public static void main(String[] args) {
+   String hello = "Hello EMCC!";
+   String firstName ="Valerie";
+   String semester ="I have done 4 semester at EMCC. ";
+   System.out.println(semester);
+   System.out.println(name);
+   System.out.println(hello);
+  }
+}
